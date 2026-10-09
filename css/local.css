@@ -1,0 +1,8 @@
+header:has(img[alt="OurStory"]),
+img[alt="OurStory"] {
+  display: none !important;
+}
+
+.bg-stage > p.pointer-events-none.absolute.inset-x-0.z-20.text-center {
+  display: none !important;
+}
